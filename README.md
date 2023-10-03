@@ -1,6 +1,6 @@
-# Business Demand Estimation Using Classification Based Prediction Model
+# Personal Expense Tracker
 
-This is a web application that utilizes Random Forest and K-Means Clustering for predicting laptop demand and employs an ARIMA model for forecasting future sales. The project is built using HTML, Bootstrap, Flask, MongoDB, and Jupyter Notebook.
+The Personal Expense Tracker is a software application designed to provide complete management of expenses. This project is deployed in integration with IBM Cloud and utilizes a combination of Flask, HTML, JavaScript, Bootstrap, SQL, Sendgrid, Docker, and Kubernetes.
 
 ## Table of Contents
 
